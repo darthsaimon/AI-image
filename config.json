@@ -1,0 +1,20 @@
+{
+    "ldsr_steps": 100,
+    "ldsr_cached": false,
+    "SCUNET_tile": 256,
+    "SCUNET_tile_overlap": 8,
+    "SWIN_tile": 192,
+    "SWIN_tile_overlap": 8,
+    "SWIN_torch_compile": false,
+    "hypertile_enable_unet": false,
+    "hypertile_enable_unet_secondpass": false,
+    "hypertile_max_depth_unet": 3,
+    "hypertile_max_tile_unet": 256,
+    "hypertile_swap_size_unet": 3,
+    "hypertile_enable_vae": false,
+    "hypertile_max_depth_vae": 3,
+    "hypertile_max_tile_vae": 128,
+    "hypertile_swap_size_vae": 3,
+    "sd_model_checkpoint": "himerosxl_v206.safetensors [f0f2f3f97d]",
+    "sd_checkpoint_hash": "f0f2f3f97d207b90aa23cf1ea760d3e8a798093fae5010459a477063fb6d4e24"
+}
